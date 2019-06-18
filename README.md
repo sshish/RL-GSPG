@@ -1,5 +1,5 @@
 # RL-GSPG
-grid sampling policy gradient - exploration by extrapolation
+grid sampling policy gradient
 
 I am experimenting a bit with off-policy actor-critic methods for continuous control problems.
 In this experiment, I use grid sampling in the action value space to define the exploration policy.
