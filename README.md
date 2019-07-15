@@ -10,9 +10,7 @@ Here, exploration instead explicitly depends on current belief of what actions m
 Solves the `'LunarLanderContinuous-v2'` environment task in a few hundred epsisodes:
 ![](https://github.com/steevsteev/RL-GSPG/blob/master/assets/learning_curve.png)
 
-**THIS IS A WORK IN PROGRESS** (including the readme)
-
-**WARNING** github seems to have problems rendering .ipynb files (including my notebook), so use this link to view the main.ipynb: https://nbviewer.jupyter.org/github/steevsteev/RL-GSPG/blob/master/main.ipynb
+**WARNING** github seems to have problems rendering .ipynb files (including my notebook), so use this link to view the main.ipynb: https://nbviewer.jupyter.org/github/shish/RL-GSPG/blob/master/main.ipynb
 
 ## Requirements
 * Python 3
